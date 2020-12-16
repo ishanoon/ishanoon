@@ -9,4 +9,4 @@
 - 😄 Pronouns: HE
 - ⚡ Fun fact: There is two of evverything
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ishanoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ishanoon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
