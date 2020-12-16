@@ -8,3 +8,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: HE
 - ⚡ Fun fact: There is two of evverything
+
+(https://github-readme-stats.vercel.app/api?username=ishanoon)](https://github.com/ishanoon/github-readme-stats)
