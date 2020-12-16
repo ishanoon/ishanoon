@@ -7,6 +7,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: HE
-- ⚡ Fun fact: There is two of evverything
+- ⚡ Fun fact: There is two of eevveerryytthhiinngg
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ishanoon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ishanoon&show_icons=true&theme=tokyonight&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
